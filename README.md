@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Data Scientist specializing in the agri-food and pharma domains, where I turn complex scientific data into deployed, decision-ready tools. I work at the intersection of chemometrics, machine learning, and experimental design (DOE), bringing deep domain knowledge to problems where understanding the data matters as much as modeling it.<br><br>My focus is taking models from notebook to production with Python, Streamlit, and Docker — not just analysis in a Jupyter cell, but tools people can actually use and interact with. Currently deepening my AI Engineering skills (deep learning, LLMs, RAG) while building out my portfolio.
+I'm a Data Scientist specialized in the agri-food and pharma domains, where I turn complex scientific data into deployed, decision-ready tools. I work at the intersection of chemometrics, machine learning, and experimental design (DOE), bringing deep domain knowledge to problems where understanding the data matters as much as modeling it.<br><br>My focus is taking models from notebook to production with Python, Streamlit, and Docker — not just analysis in a Jupyter cell, but tools people can actually use and interact with. Currently deepening my AI Engineering skills (deep learning, LLMs, RAG) while building out my portfolio.
 
 
 ## 🌐 Socials:
